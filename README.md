@@ -12,10 +12,10 @@
 ## Docker
 [Nginx and Let’s Encrypt with Docker in Less Than 5 Minutes](https://medium.com/@pentacent/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71)
 
+[docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt)
+
 ## three.js
 [5 Three JS Games](https://freefrontend.com/three-js-games/)
-
-[docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt)
 
 ## Cool stuff
 [AudioCrawl](http://audiocrawl.co/)
