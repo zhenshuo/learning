@@ -14,12 +14,12 @@
 
 [docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt)
 
-## three.js
+## Graphics
 [5 Three JS Games](https://freefrontend.com/three-js-games/)
 
 [Taotajima.jp WebGL deconstruction](https://medium.com/@akella/taotajima-jp-webgl-deconstruction-af4946e8e8ed)
 
-[https://thebookofshaders.com/](https://thebookofshaders.com)
+[The Book of Shaders](https://thebookofshaders.com)
 
 ## Cool stuff
 [AudioCrawl](http://audiocrawl.co/)
