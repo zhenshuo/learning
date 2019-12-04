@@ -1,4 +1,6 @@
 # learning
+## Algorithms
+[剑指Offer](https://darktiantian.github.io/%E5%89%91%E6%8C%87Offer/)
 
 ## React, Redux
 [Idiomatic Redux: Why use action creators?](https://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/)
