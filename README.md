@@ -27,5 +27,12 @@
 
 [collection-wakawaka](https://collection-wakawaka.world)
 
+## System Design
+[An Introduction to Real-Time Stock Market Data Processing](https://www.codeproject.com/Articles/553206/An-Introduction-to-Real-Time-Stock-Market-Data-Pro)
+
+[Design a system to give prices of a stock](https://leetcode.com/discuss/interview-question/system-design/431712/Bloomberg-or-Design-a-system-to-give-prices-of-a-stock)
+
+[Implement a system to track runners in a marathon](https://leetcode.com/discuss/interview-question/system-design/124602/Design-a-system-to-display-real-time-stock-data-and-prices)
+
 ## Cool stuff
 [AudioCrawl](http://audiocrawl.co/)
